@@ -21,3 +21,27 @@ You are a minor noble in Westeros seeking to claim the Iron Throne. To win, you 
 2. Clone this repository:
    ```bash
    git clone [https://github.com/EmeraldKingg/game-of-thrones-adventure.git](https://github.com/EmeraldKingg/game-of-thrones-adventure.git)
+
+   python game_of_thrones.py
+## 📜 Commands
+* **`north`, `south`, `east`, `west`: Move between regions.
+
+* **`take [item]`: Add an item to your satchel.**
+
+* **`use [item]`: Interact with NPCs or the environment.**
+
+* **`satchel`: View your current inventory.**
+
+* **`help`: Display the command list.**
+
+## 🗺️ Map Layout
+The game features a connected world map. Note that every character and space in the box below is important for the alignment:
+
+```text
+          [Dragonstone]
+               |
+[The Neck] <-> [Winterfell] <-> [Harrenhal] <-> [King's Landing] <-> [The Eyrie]
+    |                               |                  |
+[Castle Black]                 [Riverrun]         [The Twins]
+    |
+[The Wall]
