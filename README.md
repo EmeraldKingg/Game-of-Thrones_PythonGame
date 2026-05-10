@@ -1,6 +1,6 @@
 # Game of Thrones: A Python Text Adventure
 
-A terminal-based Object-Oriented Programming (OOP) game set in the world of Westeros. This project was developed as part of the Level 3 Diploma in Computing.
+A terminal-based Object-Oriented Programming (OOP) game set in the world of Westeros. This project was developed as part of the NCC Level 3 Diploma in Computing.
 
 ## ⚔️ The Quest
 You are a minor noble in Westeros seeking to claim the Iron Throne. To win, you must navigate the dangerous lands of the Seven Kingdoms, collect legendary items, and defeat the enemies of the realm.
